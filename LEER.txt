@@ -1,0 +1,10 @@
+*NO MODIFIQUE NINGUN ARCHIVO 
+PARA QUE NO HAIGAN FALLOS*
+
+[</>] comandos de instalacion:
+[1]- apt update && apt upgrade
+[2]- apt install python3
+[3]- pip install colorama
+[4]- pip install
+[5]- pip install qrcode
+[6]- python3 QRgenerator.py
